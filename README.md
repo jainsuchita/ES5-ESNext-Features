@@ -1,16 +1,16 @@
 # ES5-next-Features
 
-Arrow Functions
-Classes
-Default parameters
-Template Literals
-Destructuring assignments
-Enhanced Object Literals
-For-of loop
-Promises
-Modules
-New Object methods
-The spread operator
-Set
-Map
-Generators
+[x] Arrow Functions
+[x] Classes
+[x] Default parameters
+[x] Template Literals
+[x] Destructuring assignments
+[x] Enhanced Object Literals
+[x] For-of loop
+[x] Promises
+[x] Modules
+[x] New Object methods
+[x] The spread operator
+[x] Set
+[x] Map
+[x] Generators
