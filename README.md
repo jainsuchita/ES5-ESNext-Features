@@ -13,4 +13,5 @@
 - [x] The spread operator
 - [x] Set
 - [x] Map
+- [x] Iterators
 - [x] Generators
