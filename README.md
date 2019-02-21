@@ -26,13 +26,13 @@
 - [x] Object.entries()
 - [x] Object.getOwnPropertyDescriptors()
 
-#ES2018 - ES9
+# ES2018 - ES9
 - [x] Rest/Spread Properties
 - [x] Asynchronous iteration
 - [x] Promise.prototype.finally()
 - [x] Regular Expression improvements
 
-#ESNext
+# ESNext
 - [x] Array.prototype.{flat,flatMap}
 - [x] Optional catch binding
 - [x] Object.fromEntries()
